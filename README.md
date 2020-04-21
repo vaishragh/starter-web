@@ -1,4 +1,4 @@
-# starter Web Project
+# Starter Web Project
 ## Introcution
 ## Purpose
 ## How to Contribute
