@@ -9,3 +9,6 @@ Added text for Purpose
 text for contricute
 ## Deployment
 text for Deployment
+
+### Copright
+notice for copyright
